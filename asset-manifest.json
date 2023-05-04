@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/denisdev/static/css/main.7e275c6a.css",
+    "main.js": "/denisdev/static/js/main.8dbd29bf.js",
+    "index.html": "/denisdev/index.html",
+    "main.7e275c6a.css.map": "/denisdev/static/css/main.7e275c6a.css.map",
+    "main.8dbd29bf.js.map": "/denisdev/static/js/main.8dbd29bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e275c6a.css",
+    "static/js/main.8dbd29bf.js"
+  ]
+}
