@@ -1,0 +1,51 @@
+*{
+  font-family: 'Press Start 2P', cursive;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.login-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+input {
+  margin: 10px 0;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.login-btn{
+  display: flex;
+  justify-content: center;
+}
+button {
+  margin: 10px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+.error {
+  color: red;
+}
